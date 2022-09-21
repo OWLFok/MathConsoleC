@@ -27,7 +27,7 @@
 
 int ml() /*Копия лицензии GPL3*/
 {
-	printf("This program is free software and is distributed under the GNU General Public License, version 3. In short, this means you are free to use and distribute Inkscape for any purpose, commercial or non-commercial, without any restrictions. You are also free to modify the program as you wish, with the only restriction that if you distribute the modified version, you must provide access to its source code. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY.\n\nFor more details about the license, check the link: https://www.gnu.org/licenses/gpl-3.0.en.html \n\n\n");
+	printf("This program is free software and is distributed under the GNU General Public License, version 3. In short, this means you are free to use and distribute Inkscape for any purpose, commercial or non-commercial, without any restrictions. You are also free to modify the program as you wish, with the only restriction that if you distribute the modified version, you must provide access to its source code. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY.\n\nFor more details about the license, check the attached file LICENSE or the link: https://www.gnu.org/licenses/gpl-3.0.en.html \n\n\n");
 	return 0;
 }
 
