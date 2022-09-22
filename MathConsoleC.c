@@ -140,6 +140,7 @@ int main()
 		
 		if (v==-1) /*Выход из цикла*/
 		{
+			system("clear");
 			break;
 		}
 		else if (v==-2) /*Выход из цикла*/
